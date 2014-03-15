@@ -17,8 +17,8 @@ Vocabulary database (Russian, English, Chinese). Using json format
                     }
                     "examples" {
                                 "official examples" {
-                                                     "russian" : "";
-                                                     "english" : "";
+                                                     "russian" : "",
+                                                     "english" : "",
                                                      "chinese" : "",
                                 }
                                 "users examples" {
