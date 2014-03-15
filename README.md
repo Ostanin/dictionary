@@ -34,7 +34,7 @@ Now in base:
                                "users phrases" {
                                                 "link" : "",
                                }
-                              }
+                    }
                     "examples" {
                                 "official examples" {
                                                      "russian" : "",
