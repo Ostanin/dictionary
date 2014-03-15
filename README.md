@@ -22,7 +22,7 @@ Now in base:
                                     "ipa" : "",
                     }
                     "tags" {
-                             "tag 1" : "true",
+                             "universe" : "true",
                              "tag 2" : "false",
                     }
                     "phrases" {
