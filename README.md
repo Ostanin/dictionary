@@ -15,7 +15,7 @@ Now in base:
                     "file" : "audio_file.ogg",
                     "translation" {
                                     "russian" : "оригинальное слово, исходное слово",
-                                    "english" : "original word",
+                                    "english" : "",
                                     "chinese" : "原詞",
                                     "transcription" : "| əˈrɪdʒn̩əl ˈwɜːd |",
                                     "pinyin" : "",
