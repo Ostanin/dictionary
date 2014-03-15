@@ -15,6 +15,16 @@ Vocabulary database (Russian, English, Chinese). Using json format
                              "tag 1" : "true",
                              "tag 2" : "false",
                     }
+                    "phrases" {
+                               "offical phrases" {
+                                                  "russian" : "",
+                                                  "english" : "",
+                                                  "chinese" : "",
+                               }
+                               "users phrases" {
+                                                "link" : "",
+                               }
+                              }
                     "examples" {
                                 "official examples" {
                                                      "russian" : "",
