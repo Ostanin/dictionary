@@ -1,4 +1,4 @@
-
+Dictionary
 ==========
 
 Vocabulary database (Russian, English, Chinese). Using json format
@@ -9,7 +9,7 @@ Now in base:
 * 0 Chinese words;
 
 ```json
-{Dictionary
+{
   "original word" {
                     "interpreting word" : "interpretation of the word in the native language",
                     "translation" {
