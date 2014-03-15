@@ -12,10 +12,14 @@ Now in base:
 {
   "original word" {
                     "interpreting word" : "interpretation of the word in the native language",
+                    "file" : "audio_file.ogg",
                     "translation" {
                                     "russian" : "оригинальное слово, исходное слово",
                                     "english" : "original word",
                                     "chinese" : "原詞",
+                                    "transcription" : "| əˈrɪdʒn̩əl ˈwɜːd |",
+                                    "pinyin" : "",
+                                    "ipa" : "",
                     }
                     "tags" {
                              "tag 1" : "true",
