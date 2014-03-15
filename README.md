@@ -2,7 +2,7 @@ Dictionary
 ==========
 
 Vocabulary database (Russian, English, Chinese). Using json format
-
+```json
 {
   "original word" {
                     "interpreting word" : "interpretation of the word in the native language",
