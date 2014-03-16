@@ -32,7 +32,7 @@ Now in base:
                                                   "russian" : "",
                                                   "english" : "",
                                                   "chinese" : "",
-                               }
+                               },
                                "users phrases" {
                                                 "link" : "",
                                }
@@ -42,7 +42,7 @@ Now in base:
                                                      "russian" : "",
                                                      "english" : "",
                                                      "chinese" : "",
-                                }
+                                },
                                 "users examples" {
                                                     "link" : "",
                                 }
