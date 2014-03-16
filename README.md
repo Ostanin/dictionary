@@ -13,6 +13,8 @@ Now in base:
   "original word" {
                     "interpreting word" : "interpretation of the word in the native language",
                     "file" : "audio_file.ogg",
+                    "wiki" : "link",
+                    "part of speech" : "",
                     "translation" {
                                     "russian" : "оригинальное слово, исходное слово",
                                     "english" : "",
