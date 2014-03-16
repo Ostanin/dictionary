@@ -16,9 +16,9 @@ Now in base:
                     "wiki" : "link",
                     "part of speech" : "",
                     "translation" {
-                                    "russian" : "оригинальное слово, исходное слово",
-                                    "english" : "",
-                                    "chinese" : "原詞",
+                                    "russian" : [ "оригинальное слово", "исходное слово"],
+                                    "english" : [""],
+                                    "chinese" : ["原詞"],
                                     "transcription" : "| əˈrɪdʒn̩əl ˈwɜːd |",
                                     "pinyin" : "",
                                     "ipa" : "",
