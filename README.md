@@ -28,7 +28,7 @@ Now in base:
 		    "tags" : {
 		              "universe" : "true",
 		              "tag 2" : "false",
-		             };
+		             },
 		            
 		    "phrases" : {
 		               "offical phrases" : {
