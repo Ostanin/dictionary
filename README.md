@@ -10,7 +10,8 @@ Now in base:
 
 ```json
 [
-  "original word" {
+	{
+    "original word" {
                     "interpreting word" : "interpretation of the word in the native language",
                     "file" : "audio_file.ogg",
                     "wiki" : "link",
@@ -25,38 +26,31 @@ Now in base:
                                   },
                     },
                     
-                    "tags" {
-                             "universe" : "true",
-                             "tag 2" : "false",
-                           },
-                    },
-                    
-                    "phrases" {
-                               "offical phrases" {
-                                                  "russian" : "",
-                                                  "english" : "",
-                                                  "chinese" : "",
-                                                 },
+    "tags" {
+           "universe" : "true",
+           "tag 2" : "false",
+           },
+           
+    "phrases" {
+             "offical phrases" {
+                                "russian" : "",
+                                "english" : "",
+                                "chinese" : "",
                                },
-                               
-                               "users phrases" {
-                                                "link" : "",
-                                               },
-                               },
+              },
+              
+    "users phrases" {
+                      "link" : "",
                     },
-                    
-                    "examples" {
-                                "official examples" {
-                                                     "russian" : "",
-                                                     "english" : "",
-                                                     "chinese" : "",
-                                                    },
-                                                     
-                                },
-
-                                "users examples" {
-                                                    "link" : "",
-                                                 },
-                                }
-                    }
+    "examples" {
+                "official examples" {
+                                     "russian" : "",
+                                     "english" : "",
+                                     "chinese" : "",
+                                    },
+                },
+    "users examples" {
+                      "link" : "",
+                     }
+  }
 ]
