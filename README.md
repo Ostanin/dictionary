@@ -23,12 +23,14 @@ Now in base:
                                     "pinyin" : "",
                                     "ipa" : "",
                                   },
-                    }
+                    },
+                    
                     "tags" {
                              "universe" : "true",
                              "tag 2" : "false",
                            },
-                    }
+                    },
+                    
                     "phrases" {
                                "offical phrases" {
                                                   "russian" : "",
@@ -36,11 +38,13 @@ Now in base:
                                                   "chinese" : "",
                                                  },
                                },
+                               
                                "users phrases" {
                                                 "link" : "",
                                                },
-                               }
-                    }
+                               },
+                    },
+                    
                     "examples" {
                                 "official examples" {
                                                      "russian" : "",
@@ -49,10 +53,10 @@ Now in base:
                                                     },
                                                      
                                 },
+
                                 "users examples" {
                                                     "link" : "",
                                                  },
                                 }
                     }
-  }
 ]
