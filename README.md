@@ -9,7 +9,7 @@ Now in base:
 * 0 Chinese words;
 
 ```json
-{
+[
   "original word" {
                     "interpreting word" : "interpretation of the word in the native language",
                     "file" : "audio_file.ogg",
@@ -22,19 +22,23 @@ Now in base:
                                     "transcription" : "| əˈrɪdʒn̩əl ˈwɜːd |",
                                     "pinyin" : "",
                                     "ipa" : "",
+                                  },
                     }
                     "tags" {
                              "universe" : "true",
                              "tag 2" : "false",
+                           },
                     }
                     "phrases" {
                                "offical phrases" {
                                                   "russian" : "",
                                                   "english" : "",
                                                   "chinese" : "",
+                                                 },
                                },
                                "users phrases" {
                                                 "link" : "",
+                                               },
                                }
                     }
                     "examples" {
@@ -42,10 +46,13 @@ Now in base:
                                                      "russian" : "",
                                                      "english" : "",
                                                      "chinese" : "",
+                                                    },
+                                                     
                                 },
                                 "users examples" {
                                                     "link" : "",
+                                                 },
                                 }
                     }
   }
-}
+]
