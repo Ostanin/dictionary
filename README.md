@@ -11,46 +11,48 @@ Now in base:
 ```json
 [
 	{
-    "original word" {
+    "original word" : {
                     "interpreting word" : "interpretation of the word in the native language",
                     "file" : "audio_file.ogg",
                     "wiki" : "link",
                     "part of speech" : "",
-                    "translation" {
+                    "translation": {
                                     "russian" : [ "оригинальное слово", "исходное слово"],
                                     "english" : [""],
                                     "chinese" : ["原詞"],
                                     "transcription" : "| əˈrɪdʒn̩əl ˈwɜːd |",
                                     "pinyin" : "",
                                     "ipa" : "",
-                                  },
-                    },
+                                   },
                     
-    "tags" {
-           "universe" : "true",
-           "tag 2" : "false",
-           },
-           
-    "phrases" {
-             "offical phrases" {
-                                "russian" : "",
-                                "english" : "",
-                                "chinese" : "",
-                               },
-              },
+		    "tags" : {
+		              "universe" : "true",
+		              "tag 2" : "false",
+		             };
+		            
+		    "phrases" : {
+		               "offical phrases" : {
+		                                    "russian" : "",
+		                                    "english" : "",
+		                                    "chinese" : "",
+		                                   },
+		                },
               
-    "users phrases" {
-                      "link" : "",
-                    },
-    "examples" {
-                "official examples" {
-                                     "russian" : "",
-                                     "english" : "",
-                                     "chinese" : "",
-                                    },
-                },
-    "users examples" {
-                      "link" : "",
-                     }
-  }
+		    "users phrases" : {
+		                       "link" : "",
+		                      },
+		                      
+		    "examples" : {
+		                  "official examples" : {
+		                                         "russian" : "",
+		                                         "english" : "",
+		                                         "chinese" : "",
+		                                        },
+		                 },
+		                 
+		    "users examples" : {
+		                        "link" : "",
+		                       },
+                       }
+        }
 ]
