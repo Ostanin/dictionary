@@ -15,55 +15,41 @@ Now in base:
 		"file":"audio_file.ogg",
 		"wiki":"link",
 		"part of speech":"",
-		"translation":[
-						{
-						"russian":["оригинальное слово", "исходное слово"],
-						"english": "",
-						"chinese": "原詞"
-						}
-					  ], 
+		"translation": 	{
+							"russian":["оригинальное слово", "исходное слово"],
+							"english": "",
+							"chinese": "原詞"
+						}, 
 					  
 		"transcription":"| əˈrɪdʒn̩əl ˈwɜːd |",
 		"pinyin":"",
 		"ipa":"",
-		"tags": [
-					{
-						"universe":"true",
-						"tag 2":"false"
-					}
-				],
-		"phrases": [
-					{
-						"offical phrases": [
+		"tags": {
+					"universe":"true",
+					"tag 2":"false"
+				},
+		"phrases": {
+						"offical phrases": 
 											{
 												"russian":"",
 												"english":"",
 												"chinese":""
 											}
-										   ]
-					}
-				   ],
+					},
 
-		"users phrases": [
-							  {
+		"users phrases": {
 								"link":""
-							  }
-						 ],
-		"examples": [
-						{
-							"official examples": [
-													{
-														"russian":"",
-														"english":"",
-														"chinese":""
-													}
-												 ],
-							"users examples": [
+						 },
+		"examples": {
+						"official examples": 
 												{
+													"russian":"",
+													"english":"",
+													"chinese":""
+												},
+						"users examples": {
 													"link":""
 												}
-											  ]
 						}
-					]
 	}
 }
